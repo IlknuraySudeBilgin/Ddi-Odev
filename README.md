@@ -35,7 +35,8 @@ Veri seti analizinin hangi modelde daha yüksek başarı oranına sahip olacağ�
 
 TF-IDF Modeli için en yüksek benzerlik oranı: 0.6013
 En yüksek benzerlik oranına sahip kitabın adı: Başka Bir Şey
-En yüksek benzerlik oranına sahip ilk 5 kitap ve benzerlik oranları: 
+En yüksek benzerlik oranına sahip ilk 5 kitap ve benzerlik oranları:
+
 ![image](https://github.com/IlknuraySudeBilgin/Ddi-Odev/assets/116540925/21a108cb-8292-4b4c-8f5e-2776a4a425bb)
 
 Universal Sentence Encoder Modeli için en yüksek benzerlik oranı: 0.21017774939537048
